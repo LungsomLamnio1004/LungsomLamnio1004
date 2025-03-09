@@ -46,6 +46,6 @@ Let’s Connect!
     <a href="https://x.com/lungsom_lamnio"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
     <a href="https://discord.com/channels/@me"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/></a>
     <a href="https://leetcode.com/u/Lungsom/"><img src="https://img.shields.io/badge/-Leetcode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
-    <a href="https://lungsomlamnio.onrender.com/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white"/></a>
+    <a href="https://lungsomlamnio.onrender.com/"><img src="https://img.shields.io/badge/Portfolio-FF5733?style=for-the-badge&logo=About.me&logoColor=white"/></a>
   </p>
 </div>  
