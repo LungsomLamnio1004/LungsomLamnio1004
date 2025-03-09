@@ -49,3 +49,29 @@ Let’s Connect!
     <a href="https://lungsomlamnio.onrender.com/"><img src="https://img.shields.io/badge/Portfolio-FF5733?style=for-the-badge&logo=About.me&logoColor=white"/></a>
   </p>
 </div>  
+
+##
+<img src="https://github-readme-stats.vercel.app/api?username=LungsomLamnio1004&&show_icons=true&count_private=true&theme=github_dark">|<img src="https://github-readme-streak-stats.herokuapp.com/?user=LungsomLamnio1004&theme=blueberry_duo"/>
+|---|---|
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=LungsomLamnio1004&column=9&margin-w=15&margin-h=15&no-bg=true&no-frame=true&theme=juicyfresh">
+  </img>
+</p>
+
+<div align="center">
+    <h1>
+      Quote of the Day
+    </h1>
+    <p>
+    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark">
+      <div align="center">Visitors count</div>
+      <div align="center">
+        <img src="https://profile-counter.glitch.me/LungsomLamnio1004/count.svg"/>
+      </div> 
+    </p>
+</div>
+
+##
+
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
