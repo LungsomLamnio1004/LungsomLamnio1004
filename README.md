@@ -61,7 +61,7 @@ Let’s Connect!
 
 <div align="center">
     <h1>
-      Quote of the Day
+      Thought for the Day
     </h1>
     <p>
     <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark">
